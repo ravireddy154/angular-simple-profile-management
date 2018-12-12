@@ -1,0 +1,32 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div class="container">
+<div style="text-align:center">
+  <h1>
+    Welcome to {{ title }}!
+  </h1>
+           <div *ngIf="load" class="overlay" >
+              <img style="margin-left: 0;margin-top: 15%;" src="../assets/loader.gif" />
+            </div>
+    <div class="action_buttons">
+       <ul>
+          <li><button class="btn btn-primary sm" (click)="get_result(page_no-1)" >PREV</button></li>
+          <li><button class="btn btn-primary sm" (click)="next(page_no+1)">Next</button></li>
+       </ul>
+     </div>
+   <table>
+     <tr>
+      <th>Id</th>
+      <th>First Name</th>
+      <th>Last Name</th>
+       <th>Profile Picture</th>
+     </tr>
+     <tr *ngFor="let data of USER">
+        <td>{{data.id}}</td>
+        <td>{{data.first_name}}</td>
+        <td>{{data.last_name}}</td>
+        <td style="max-width: 150px;"><a routerLink="/view-profile/{{data.id}}" ><img src="{{data.avatar}}"></a></td>
+
+     </tr>
+   </table>
+   </div>
+<router-outlet></router-outlet>

@@ -1,0 +1,60 @@
+.my_min_table hr {margin-top: 10px;margin-bottom: 16px;}
+select{cursor:pointer;}
+.table_input1 .form-control{width:200px}
+.table_input2 .form-control {width: 150px;}
+.table_input2 p{color:#fff}
+.ad_product{padding:10px 0 0 0}
+.b_table .control-label {padding: 5px 0 10px 0;}
+.checkbox label{color:#fff}
+.my_check{margin:30px 0 30px 0}
+.my_check label{color:#fff}
+.min_tab2 p{color:#fff}
+.mp_pool{text-align:center}
+.mp_pool select{width: 90px;padding: 0 0 0 4px;margin: 0 0 10px 0;}
+.dl_pool{padding:7px 7px 0 0}
+.mpnc input{width:130px}
+.md_input{margin:30px 0 30px 0}
+.rads{margin: 5px 16px 0 0;}
+.my_dag{color:#fff;margin:30px 0 30px 0}
+.rads{cursor:pointer}
+.go_d{margin-top:30px !important}
+.upd{padding: 2px 4px 2px 4px !important;}
+
+.mt-401{margin-top:40px}
+.seller_chek{}
+.seller_chek li{display: inline-block;margin: 5px 35px 20px 3px;}
+.m_row .col_a{float: left;padding: 0 0px 0 0px;margin-bottom: 15px;width: 32%;}
+
+.m_row .col_a .col-md-2{width: 20%;margin-top: 16px;}
+.m_row .col_a .col-md-10{width: 80%;margin-top: 8px;}
+.m_row .col_a .col-md-2, .m_row .col_a .col-md-10{padding-left:10px; padding-right:10px}
+.my_hdrow .cl1{padding: 0 15px 0 15px;}
+
+.row .col_a1{width: 20%;padding: 0 15px 0 15px;float: left;}
+.my_hdrow{margin-bottom:15px}
+	
+.wid_selller{width:auto;}
+
+.col5a{float:left;width: 25%;}
+.col5a_2{float:left;}
+.my_rows{margin:0 !important}
+.my_rows label{color:#fff}
+.m_row .col_ab1 {float: left;padding: 0 0px 0 0px;margin-bottom: 15px;width:65%;}
+.m_row .col_ab1 .col-md-2{padding: 10px 0 0 15px;}
+.dc_row p{color:#fff}
+.term_condi_para p{color:#fff;padding-bottom:8px}
+.term_condi1 .term_condi_para h6{margin-bottom:10px}
+.radio input[type="radio"]{cursor:pointer}
+
+.term_condi1{margin-top:20px}
+.term_condi1 .term_title .title_condi{float:left;padding: 10px 15px 10px 15px;}
+.term_condi1 .term_title .title_condi p{color:#fff; padding-top:5px}
+.term_condi1 .term_title .title_condi:nth-child(2){width:30%}
+.term_condi1 h6{margin-bottom:30px}
+
+
+
+/*change after*/
+
+.inf2 .label.label-info{padding: 2px 7px 3px;margin: 0 5px 0px 5px;}
+.inf3 .table > thead > tr > th{text-align:center}

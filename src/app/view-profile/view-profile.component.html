@@ -1,0 +1,29 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div class="container-fluid">
+<div style="text-align:center">
+  <h1>
+    Welcome to {{title}}
+  </h1>
+           <div *ngIf="load" class="overlay" >
+              <img style="margin-left: 0;margin-top: 15%;" src="../assets/loader.gif" />
+            </div>
+
+
+</div>
+<div class="profile">
+	 <div class="container" >
+	 	<div class="col-md-4">
+	 		<div><img src="{{USER.avatar}}"></div>
+	 	</div>
+	 	<div class="col-md-8">	
+	 		<ul >
+	 			<li>{{USER.first_name}}</li>
+	 			<li>{{USER.last_name}}</li>
+	 			<li>{{USER.id}}</li>
+	 		</ul>
+	    </div>
+	 </div>
+</div>
+</div>
+
+<router-outlet></router-outlet>

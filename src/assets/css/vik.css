@@ -1,0 +1,34 @@
+.msec .higtable{background: #000421;padding: 0px 10px 0 10px; border: 1px solid #fff;border-radius: 5px;}
+.msec .card-view {background: rgba(0, 6, 25, 0.42);margin-bottom: 12px;border: 1px solid rgb(11, 12, 12);border-radius: 10px;box-shadow: none;padding: 15px 15px 0;
+margin-left: -9px;margin-right: -9px;}
+.msec .capitalize-font1 {text-transform: capitalize !important;background: #000078;padding: 0px 10px;border-radius: 5px;}
+.msec .box1 h3{font-size:18px}
+.msec .box1:hover h3{border:}
+.msec .widd{width:95% !important}
+.msec .box1{border: 1px solid #969696;border-radius: 5px;margin-top:7px;}
+.msec .box_inner{border-bottom: 1px solid #969696;padding: 15px 15px 0 15px;margin-bottom: 10px;}
+.msec .box1 .box_inner:nth-last-child(1){border:none}
+.msec .card-view.panel .panel-body {padding:6px 15px 15px 15px;}
+.msec .bl_view .table > tbody > tr > td{padding:7px}
+.msec .dlas{margin-bottom:15px !important}
+.msec .hgtable{background: #323642;}
+
+
+
+.row3 .table-fixed thead {width: 97%;}
+.row3 .table-fixed tbody {height: 230px;overflow-y: auto;width: 100%;}
+.row3 .table-fixed thead, .row3 .table-fixed tbody, .row3 .table-fixed tr, .row3 .table-fixed td, .row3 .table-fixed th {display: block;}
+.row3 .table-fixed tbody td, .row3 .table-fixed thead > tr> th {float: left;border-bottom-width: 0;}
+.row3 .panel{background-color: #323642;border-radius:0}
+.row3 .panel tr td{color:#fff}
+.row3 .panel-default>.panel-heading{background-color: #323642;}
+.product_by_emp h4{margin-bottom:30px}
+.pdp1 .vg1{border:1px solid #fff; padding-top:7px;}
+.pdp1 .vg3{border-left:none}
+.pdp1 .my_table_defualt1{border-left: none;border-right: none;margin-bottom: 0;}
+.my_col-lg_2{width: 13.66666667%;float:left;position: relative;min-height: 1px;padding-right: 13px;padding-left: 13px;}
+.my_col-lg_2 .card-view {background: #102075;margin-bottom: 14px;border: 1px solid rgba(255, 255, 255, 0.1);border-radius: 2px;box-shadow: none;padding: 15px 15px 0;margin-left: 0px;margin-right: 0px;}
+.my_col-lg_2 .sm-data-box .data-wrap-left, .my_col-lg_2 .sm-data-box .data-wrap-right {padding-top: 15px;border: 1px solid #fff;}
+.total_added p{color:#fff;padding: 8px 0 8px 0;}
+.row3{margin-top:30px}
+.my_table_defualt .table-fixed tbody{height: 393px;}
